@@ -14,8 +14,6 @@ console.log("==== Last character ====");
 var LastChar=  greet.charAt(greet.length-1);
 console.log("charector at last index is:", LastChar);
 
-var upperCaseString= greet.toUpperCase();
-console.log("Result is:", upperCaseString);
 
 var result= greet.indexOf("o")
 console.log("the index of charector o is:",result);
