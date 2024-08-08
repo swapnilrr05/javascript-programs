@@ -19,3 +19,4 @@ var result= greet.indexOf("o")
 console.log("the index of charector o is:",result);
 
 
+console.log();
