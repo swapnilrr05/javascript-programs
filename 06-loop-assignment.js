@@ -24,7 +24,7 @@ function sumOfCubes() {
 }
 
 console.log("Sum of cubes from 1 to 5: ", sumOfCubes());
-
+s
 
 
 

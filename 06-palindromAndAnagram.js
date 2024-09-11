@@ -25,3 +25,4 @@ function areAnagrams(str1, str2) {
 console.log(`Is this Strings "Silent" , "Listen" are Anagram = ${areAnagrams("Silent", "Listen")}`);
 console.log(`Is this Strings "Hello" , "World" are Anagram = ${areAnagrams("Hello", "World")}`);
 console.log(`Is this Strings "Such" , "much" are Anagram = ${areAnagrams("Such", "much")}`);
+  
